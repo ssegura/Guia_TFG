@@ -41,24 +41,24 @@ complejidad. Deben evitarse proyectos que no aporten nada novedoso, o que pudier
 realizados sin mayores dificultades con herramientas existentes (ej. gestores de contenido). Los
 siguientes son ejemplos de proyectos potencialmente interesantes:
 
-- Proyectos con un cliente real. Los proyectos que abordan las necesidades de un cliente
+- **Proyectos con un cliente real**. Los proyectos que abordan las necesidades de un cliente
     real, una ONG o una empresa familiar, por ejemplo, suelen valorarse de forma positiva.
     La interacción necesaria entre el estudiante y las personas que necesitan la aplicación
     enriquece el proceso de aprendizaje y lo acerca a contextos profesionales reales,
     promoviendo el desarrollo de competencias clave.
-- Proyectos con orientación social. Se suele valorar de forma positiva a aquellos proyectos
+- **Proyectos con orientación social**. Se suele valorar de forma positiva a aquellos proyectos
     que intentan resolver problemas relevantes para la sociedad como, por ejemplo, aquellos
     relacionados con los Objetivos de Desarrollo Sostenible definidos por la ONU (ej.
     promover la economía circular). También se pueden encuadrar en este tipo de proyecto
     aquellos que abordan las necesidades de una ONG, por ejemplo. Estos trabajos van más
     allá de una simple experimentación con la tecnología y, aunque en la mayoría de los casos
     queden en una prueba de concepto, se consideran adecuados.
-- Proyectos con tecnologías novedosas. Una de las dimensiones en las que puede destacar
+- **Proyectos con tecnologías novedosas**. Una de las dimensiones en las que puede destacar
     un proyecto es en el conjunto de tecnologías que utiliza. El uso de tecnologías y
     herramientas novedosas añade dificultad al proyecto a la vez que demuestran la
     capacidad de autoaprendizaje del estudiante, fundamental en el ámbito de la
     informática, lo cual se suele considerar un aspecto positivo.
-- Proyectos multidisciplinares. Los proyectos que combinan conocimientos de distintas
+- **Proyectos multidisciplinares**. Los proyectos que combinan conocimientos de distintas
     disciplinas o áreas son especialmente interesantes pues requieren que el estudiante
     investigue temáticas muy diferentes y consiga integrarlas de manera efectiva para dar
     respuesta a un problema concreto. Un posible ejemplo sería una aplicación capaz de
@@ -73,12 +73,12 @@ conocimientos de distintas áreas de conocimiento.
 
 ## 2 Documentación
 
-La documentación del proyecto debe seguir un estilo formal y riguroso. Es común que existan
+La documentación del proyecto debe seguir un **estilo formal y riguroso**. Es común que existan
 plantillas predefinidas propuestas por la propia asignatura, el departamento o la escuela.
 Independientemente del uso de plantillas, existen dos alternativas principales para su
 elaboración:
 
-- Editores de texto convencionales como Microsoft Word o Google Drive. Su uso es sencillo
+- **Editores de texto** convencionales como Microsoft Word o Google Drive. Su uso es sencillo
     y no requiere formación específica. Con este tipo de herramientas el estudiante debe
     encargarse del formato visual y la maquetación (colores, márgenes, referencias, etc) lo
     que suele ser un proceso bastante laborioso. Existen plantillas predefinidas que facilitan
@@ -86,7 +86,7 @@ elaboración:
     maquetación.
 
 
-- Sistemas de marcas como LaTeX a través de editores como Overleaf o Typst. Estas
+- **Sistemas de marcas** como LaTeX a través de editores como Overleaf o Typst. Estas
     herramientas utilizan sistemas de marcas que permiten independizar el contenido del
     formato visual. De esta manera, el estudiante puede concentrarse en el contenido y
     delegar la maquetación y el aspecto visual a la herramienta, normalmente a partir de
@@ -94,29 +94,29 @@ elaboración:
     ya que familiarizarse con el sistema de marcas suele requerir tiempo.
 
 Independientemente de la herramienta seleccionada, es fundamental que el estilo visual del
-documento sea profesional, coherente y homogéneo. Es recomendable dedicar tiempo al inicio
+documento sea **profesional, coherente y homogéneo**. Es recomendable dedicar tiempo al inicio
 del proyecto para definir cuidadosamente la maquetación y el formato visual. De lo contrario, es
 probable que más adelante sea necesario realizar modificaciones de estilo que impliquen rehacer
 parte del proyecto ya realizado.
 
-El documento debe incluir índices de contenidos, tablas y figuras. Todos deben generarse de
+El documento debe incluir **índices** de contenidos, tablas y figuras. Todos deben generarse de
 forma automática mediante el uso de referencias cruzadas. Todas las tablas y figuras deben incluir
 un pie descriptivo y deben referenciarse desde el texto (ej.: “La Figura X muestra el prototipo de
 la vista de...”).
 
-Deben emplearse imágenes de alta calidad. No deben incluirse imágenes pixeladas, nunca, y en
+Deben emplearse **imágenes de alta calidad**. No deben incluirse imágenes pixeladas, nunca, y en
 ningún caso se deben salir de los márgenes del documento. Todas las imágenes deben
 referenciarse desde el texto. En el caso de diagramas de software, estos deben explicarse de
 forma detallada. En el caso de que una imagen contenga texto, el tamaño de éste debe ser lo más
 parecido posible al tamaño del texto del documento.
 
-Los fragmentos de código deben incluirse preferiblemente con fondo blanco y líneas numeradas
+Los fragmentos de código deben incluirse preferiblemente con **fondo blanco y líneas numeradas**
 para poder hacer referencia a las mismas desde el texto.
 
-La redacción debe ser formal y cuidada. Todo el contenido debe tener un objetivo claro evitando
-añadir “relleno”. El texto debe estar justificado. Es posible copiar textos de otros autores de
+La **redacción** debe ser **formal y cuidada**. Todo el contenido debe tener un objetivo claro evitando
+añadir "relleno". El texto debe estar justificado. Es posible copiar textos de otros autores de
 forma ocasional siempre y cuando se enmarque el texto entre comillas, con letra cursiva, y se
-indique el autor y la referencia a la fuente (ver Apartado 12 ).
+indique el autor y la referencia a la fuente (ver Apartado 12).
 
 ## 3 Resumen
 
@@ -128,15 +128,15 @@ algunos casos, puede haber limitaciones de espacio, pero lo más habitual es que
 ocupe aproximadamente una página.
 
 Independientemente del enfoque utilizado y su extensión, el resumen debería contestar a cuatro
-preguntas clave: 1) ¿cuál es el problema que se ha abordado? 2) ¿por qué es un problema
-relevante? 3) ¿cuál es la solución propuesta?, y 4) ¿por qué es una buena solución? El resumen
+preguntas clave: **1) ¿cuál es el problema que se ha abordado? 2) ¿por qué es un problema
+relevante? 3) ¿cuál es la solución propuesta?, y 4) ¿por qué es una buena solución?** El resumen
 debería dar respuesta a estas preguntas de forma clara y directa. Suele ser buena idea mencionar
 las tecnologías utilizadas y la metodología de desarrollo, así como cualquier aspecto diferenciador
 del proyecto: enfoque social, validación con usuarios reales, automatización de pruebas, etc.
 
 En ocasiones se suele recomendar el uso de un resumen estructurado que cubra aspectos
-específicos. Por ejemplo, es habitual ver resúmenes estructurados en contexto, objetivo, método,
-resultados y conclusiones.
+específicos. Por ejemplo, es habitual ver resúmenes estructurados en **contexto, objetivo, método,
+resultados y conclusiones**.
 
 
 ## 4 Motivación
@@ -285,7 +285,7 @@ particular, se deben seguir las siguientes recomendaciones:
 - Se debe indicar claramente las herramientas utilizadas y para qué, de manera que se
     puedan entender los resultados y el alcance de la contribución del estudiante.
 
-## 14 Video demostración.............................................................................................................
+## 14 Video demostración
 
 Se recomienda la creación de un vídeo demo ilustrando el producto desarrollado. En el momento
 de escribir este documento, este vídeo es un requisito obligatorio para la entrega del TfG en la
