@@ -154,14 +154,14 @@ se trata de un problema relevante, así como de la solución propuesta y su rele
 contexto presentado.
 
 Salvo casos excepcionales, será habitual que existan aplicaciones similares a la que se va a
-desarrollar en el proyecto. En tal caso, es recomendable incluir una sección de “soluciones
-existentes” describiendo las aplicaciones relacionadas y cómo se diferencian del producto que se
+desarrollar en el proyecto. En tal caso, es recomendable incluir una sección de **"soluciones
+existentes"** describiendo las aplicaciones relacionadas y cómo se diferencian del producto que se
 va a desarrollar en el proyecto, destacando los aspectos diferenciadores del mismo. En este
 apartado suele resultar útil incluir una tabla comparativa.
 
 ## 5 Planificación
 
-El proyecto debe incluir una planificación temporal y de costes aplicando los conocimientos
+El proyecto debe incluir una **planificación temporal y de costes** aplicando los conocimientos
 adquiridos en el grado. La planificación temporal debe realizarse teniendo en cuenta el número
 de horas de proyecto esperados para completar el TfG por normativa. En el momento de escribir
 este documento, esto se corresponde con 300h en grado y 450 h en doble grado. Es importante
@@ -172,7 +172,7 @@ y preparación de la presentación, entre otras.
 La planificación de costes debe tener en cuenta los costes de personal y de material. Es
 recomendable incluir un porcentaje para contingencias y otro de beneficios.
 
-El proyecto debe incluir un análisis detallado de la desviación con respecto a la planificación inicial
+El proyecto debe incluir un **análisis detallado de la desviación** con respecto a la planificación inicial
 tanto en tiempo como en coste. Este análisis puede incluirse en el mismo capítulo o en un capítulo
 independiente. Es muy recomendable utilizar herramientas de monitorización de tiempo como
 Clockify o similar y adjuntar los informes generados como anexo para justificar el tiempo invertido
@@ -180,7 +180,7 @@ en las distintas tareas. Es normal, incluso esperado, que se hayan producido peq
 desviaciones al tratarse de uno de los primeros proyectos desarrollados por el estudiante. En caso
 de existir, las desviaciones deben ser siempre positivas, es decir, en ningún caso se debe invertir
 un número de horas inferior al requerido por la normativa. Por último, es recomendable que las
-potenciales desviaciones vayan acompañadas de una serie de lecciones aprendidas.
+potenciales desviaciones vayan acompañadas de una serie de **lecciones aprendidas**.
 
 ## 6 Metodología
 
@@ -189,7 +189,7 @@ desarrollo es habitual el uso de metodologías ágiles como Scrum. En tal caso, 
 describir la metodología utilizada y como se ha seguido en el contexto del proyecto: número de
 iteraciones, duración de las iteracciones, roles, etc.
 
-De igual forma, deben describirse las herramientas que se han utilizado para la gestión del
+De igual forma, deben describirse las **herramientas** que se han utilizado para la gestión del
 proyecto utilizando la metodología indicada. Por ejemplo, en el caso de una metodología ágil, es
 posible utilizar herramientas como GitHub Project, Jira, y/o Trello, por ejemplo.
 
@@ -197,8 +197,8 @@ posible utilizar herramientas como GitHub Project, Jira, y/o Trello, por ejemplo
 ## 7 Ecosistema de desarrollo
 
 El proyecto debe incluir una descripción detallada del ecosistema de desarrollo, incluyendo los
-lenguajes de programación y las herramientas empleadas para la implementación (ej. Python), la
-documentación (ej. Overleaf) y la gestión del proyecto (ej. Zenhub). También debe especificarse
+lenguajes de programación y las herramientas empleadas para la **implementación** (ej. Python), la
+**documentación** (ej. Overleaf) y la **gestión del proyecto** (ej. Zenhub). También debe especificarse
 la política de gestión del código fuente, estrategia de integración continua, despliegue y el uso de
 asistentes de Inteligencia Artificial (ver Apartado 13 ), por ejemplo. Cada uno de estos puntos debe
 ir acompañado de una breve explicación que permita al lector comprender cómo se ha
@@ -208,7 +208,7 @@ las herramientas.
 ## 8 Requisitos
 
 El proyecto debe incluir una descripción de los objetivos del sistema y sus requisitos incluyendo,
-al menos, requisitos funcionales, requisitos de información y requisitos no funcionales. Es muy
+al menos, **requisitos funcionales, requisitos de información y requisitos no funcionales**. Es muy
 recomendable que los requisitos vayan acompañados de criterios de aceptación, que
 posteriormente deberán documentarse con las correspondientes pruebas de aceptación. Se debe
 prestar especial atención a la descripción de los requisitos no funcionales para que sean medibles.
@@ -222,8 +222,8 @@ descripciones textuales detalladas e indicando el software utilizado para su dis
 
 El apartado de diseño debe incluir una descripción general de la arquitectura, por ejemplo,
 utilizando un diagrama de bloques informal o similar. Una vez presentada de forma general se
-debe proporcionar información más específica a través de una descripción de las vistas más
-relevantes. Se recomienda incluir una vista funcional o lógica (ej. a través de un diagrama UML
+debe proporcionar información más específica a través de una descripción de las **vistas más
+relevantes**. Se recomienda incluir una vista funcional o lógica (ej. a través de un diagrama UML
 de componentes), una vista de despliegue (ej. diagrama UML de despliegue) y una vista de datos
 (ej. diagrama UML de clases con perfil de datos). Opcionalmente, se pueden incluir otro tipo de
 vistas como una vista de contexto o una vista de comportamiento (ej. usando un diagrama UML
@@ -239,19 +239,19 @@ numeradas para poder hacer referencias a ellas desde el texto.
 ## 11 Pruebas
 
 La realización y documentación de pruebas es un requisito imprescindible. Debe quedar claro qué
-tipo de pruebas se han realizado (unitarias, integración, sistema, API, GUI, etc.) y cuántas se han
+**tipo de pruebas** se han realizado (unitarias, integración, sistema, API, GUI, etc.) y cuántas se han
 realizado documentando, al menos, las más relevantes (ej. pruebas de aceptación). Es muy
 recomendable automatizar al menos un subconjunto de las pruebas. En tal caso, debe quedar
 claro cuántas se han automatizado, cómo se ha realizado dicha automatización y con qué
-herramientas. También es aconsejable incluir métricas que permitan valorar la adecuación de las
+herramientas. También es aconsejable **incluir métricas** que permitan valorar la adecuación de las
 pruebas, como el nivel de cobertura alcanzado.
 
 
 En el caso de que no se haya podido automatizar ninguna de las pruebas, por ejemplo, en
-dominios complejos como chatbots, es recomendable documentar las pruebas manuales más
+dominios complejos como chatbots, es recomendable **documentar las pruebas** manuales más
 significativas e incluir capturas o enlaces a vídeos ilustrando la realización de la prueba.
 
-Es conveniente utilizar sistemas de integración continua que permitan la ejecución automática
+Es conveniente utilizar **sistemas de integración continua** que permitan la ejecución automática
 de las pruebas y/o análisis estático del código fuente al realizar cambios en el repositorio. En tal
 caso, se debe documentar las herramientas utilizadas (ej. GitHub Actions) y la estrategia
 implementada.
@@ -273,16 +273,16 @@ figura, ej. “Metodología Scrum [5]”.
 El uso de herramientas de Inteligencia Artificial (IA) en proyectos académicos es un tema
 complejo para el cual aún no existen directrices ampliamente aceptadas. En el momento de
 redactar este documento, en línea con las guías éticas de editoriales como Elsevier y ACM, su uso
-se considera admisible siempre que se realice de forma limitada, transparente y responsable. En
+se considera admisible siempre que se realice de forma **limitada, transparente y responsable**. En
 particular, se deben seguir las siguientes recomendaciones:
 
-- El uso de la IA debe realizarse siempre para mejorar el contenido previamente redactado
+- El uso de la IA debe realizarse siempre para **mejorar el contenido previamente redactado**
     por el estudiante, pero nunca para generar contenido desde cero. Se recomienda que su
     uso se limite a las partes más relevantes del documento.
-- No se debe confiar en los resultados proporcionados por la herramienta. Si la
+- **No se debe confiar en los resultados** proporcionados por la herramienta. Si la
     herramienta proporciona un resultado como una cifra, un dato o la referencia a un
     artículo, se debe asumir que es incorrecto hasta verificarlo con otra fuente confiable.
-- Se debe indicar claramente las herramientas utilizadas y para qué, de manera que se
+- Se debe **indicar claramente las herramientas utilizadas** y para qué, de manera que se
     puedan entender los resultados y el alcance de la contribución del estudiante.
 
 ## 14 Video demostración
@@ -292,8 +292,8 @@ de escribir este documento, este vídeo es un requisito obligatorio para la entr
 ETSII de Sevilla y debe tener una duración máxima de tres minutos.
 
 El vídeo debe cubrir las funcionalidades más importantes de la aplicación y debe estar explicado
-por el propio estudiante cuya voz se escuchará de fondo. La calidad del vídeo y del audio son
-fundamentales. Se recomienda el uso de un micrófono dedicado. Si se trata de una aplicación
+por el propio estudiante cuya voz se escuchará de fondo. **La calidad del vídeo y del audio son
+fundamentales**. Se recomienda el uso de un micrófono dedicado. Si se trata de una aplicación
 grande en la que se desea mostrar mucha funcionalidad, es recomendable acelerar un poco el
 vídeo (nunca la voz).
 
@@ -308,9 +308,9 @@ continuación, el tribunal formulará comentarios y preguntas relacionadas con e
 realizado. Para ello, el estudiante deberá preparar y enviar con antelación una presentación,
 normalmente en formato Powerpoint.
 
-Se recomienda utilizar una plantilla con fondo blanco lo más limpia posible y usar formato 4:3 (el
-formato panorámico no se ve bien en pantallas pequeñas). Se debe utilizar la menor cantidad de
-texto posible y usar imágenes de muy buena calidad.
+Se recomienda utilizar una plantilla con **fondo blanco** lo más limpia posible y usar formato 4:3 (el
+formato panorámico no se ve bien en pantallas pequeñas). Se debe **utilizar la menor cantidad de
+texto posible y usar imágenes de muy buena calidad**.
 
 Es conveniente comenzar siempre la presentación explicando de forma muy breve el problema
 abordado y el resultado del proyecto. Esto permite que los miembros del tribunal puedan tener
