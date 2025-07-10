@@ -17,21 +17,21 @@ El objetivo de este documento es proporcionar a los estudiantes de grados en Inf
 
 ## Índice
 
-- [1 Temática](#1-temática)
-- [2 Documentación](#2-documentación)
-- [3 Resumen](#3-resumen)
-- [4 Motivación](#4-motivación)
-- [5 Planificación](#5-planificación)
-- [6 Metodología](#6-metodología)
-- [7 Ecosistema de desarrollo](#7-ecosistema-de-desarrollo)
-- [8 Requisitos](#8-requisitos)
-- [9 Diseño](#9-diseño)
-- [10 Implementación](#10-implementación)
-- [11 Pruebas](#11-pruebas)
-- [12 Referencias](#12-referencias)
-- [13 Uso de Inteligencia Artificial](#13-uso-de-inteligencia-artificial)
-- [14 Video demostración](#14-video-demostración)
-- [15 Presentación](#15-presentación)
+1. [Temática](#1-temática)
+2. [Documentación](#2-documentación)
+3. [Resumen](#3-resumen)
+4. [Motivación](#4-motivación)
+5. [Planificación](#5-planificación)
+6. [Metodología](#6-metodología)
+7. [Ecosistema de desarrollo](#7-ecosistema-de-desarrollo)
+8. [Requisitos](#8-requisitos)
+9. [Diseño](#9-diseño)
+10. [Implementación](#10-implementación)
+11. [Pruebas](#11-pruebas)
+12. [Referencias](#12-referencias)
+13. [Uso de Inteligencia Artificial](#13-uso-de-inteligencia-artificial)
+14. [Video demostración](#14-video-demostración)
+15. [Presentación](#15-presentación)
 
 
 ## 1 Temática
