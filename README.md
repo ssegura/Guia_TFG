@@ -48,7 +48,7 @@ siguientes son ejemplos de proyectos potencialmente interesantes:
     promoviendo el desarrollo de competencias clave.
 - **Proyectos con orientación social**. Se suele valorar de forma positiva a aquellos proyectos
     que intentan resolver problemas relevantes para la sociedad como, por ejemplo, aquellos
-    relacionados con los Objetivos de Desarrollo Sostenible definidos por la ONU (ej.
+    relacionados con los [Objetivos de Desarrollo Sostenible](https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/) definidos por la ONU (ej.
     promover la economía circular). También se pueden encuadrar en este tipo de proyecto
     aquellos que abordan las necesidades de una ONG, por ejemplo. Estos trabajos van más
     allá de una simple experimentación con la tecnología y, aunque en la mayoría de los casos
@@ -86,7 +86,7 @@ elaboración:
     maquetación.
 
 
-- **Sistemas de marcas** como LaTeX a través de editores como Overleaf o Typst. Estas
+- **Sistemas de marcas** como LaTeX a través de editores como [Overleaf](https://www.overleaf.com/) o [Typst](https://typst.app/). Estas
     herramientas utilizan sistemas de marcas que permiten independizar el contenido del
     formato visual. De esta manera, el estudiante puede concentrarse en el contenido y
     delegar la maquetación y el aspecto visual a la herramienta, normalmente a partir de
@@ -101,8 +101,8 @@ parte del proyecto ya realizado.
 
 El documento debe incluir **índices** de contenidos, tablas y figuras. Todos deben generarse de
 forma automática mediante el uso de referencias cruzadas. Todas las tablas y figuras deben incluir
-un pie descriptivo y deben referenciarse desde el texto (ej.: “La Figura X muestra el prototipo de
-la vista de...”).
+un pie descriptivo y deben referenciarse desde el texto (ej.: "La Figura X muestra el prototipo de
+la vista de...").
 
 Deben emplearse **imágenes de alta calidad**. No deben incluirse imágenes pixeladas, nunca, y en
 ningún caso se deben salir de los márgenes del documento. Todas las imágenes deben
@@ -175,7 +175,7 @@ recomendable incluir un porcentaje para contingencias y otro de beneficios.
 El proyecto debe incluir un **análisis detallado de la desviación** con respecto a la planificación inicial
 tanto en tiempo como en coste. Este análisis puede incluirse en el mismo capítulo o en un capítulo
 independiente. Es muy recomendable utilizar herramientas de monitorización de tiempo como
-Clockify o similar y adjuntar los informes generados como anexo para justificar el tiempo invertido
+[Clockify](https://clockify.me/) o similar y adjuntar los informes generados como anexo para justificar el tiempo invertido
 en las distintas tareas. Es normal, incluso esperado, que se hayan producido pequeñas
 desviaciones al tratarse de uno de los primeros proyectos desarrollados por el estudiante. En caso
 de existir, las desviaciones deben ser siempre positivas, es decir, en ningún caso se debe invertir
@@ -191,7 +191,7 @@ iteraciones, duración de las iteracciones, roles, etc.
 
 De igual forma, deben describirse las **herramientas** que se han utilizado para la gestión del
 proyecto utilizando la metodología indicada. Por ejemplo, en el caso de una metodología ágil, es
-posible utilizar herramientas como GitHub Project, Jira, y/o Trello, por ejemplo.
+posible utilizar herramientas como [GitHub Project](https://github.com/), [Jira](https://www.atlassian.com/es/software/jira), y/o [Trello](https://trello.com/), por ejemplo.
 
 
 ## 7 Ecosistema de desarrollo
@@ -216,7 +216,7 @@ En función de las características del proyecto, opcionalmente, se pueden inclu
 artefactos como un modelo conceptual para representar los requisitos de información y detectar
 posibles inconsistencias o un modelo de proceso para poder entender mejor el dominio del
 problema. Junto a los requisitos se deben incluir prototipos de interfaz usuario, incluyendo
-descripciones textuales detalladas e indicando el software utilizado para su diseño (ej. figma).
+descripciones textuales detalladas e indicando el software utilizado para su diseño (ej. [figma](https://www.figma.com/)).
 
 ## 9 Diseño
 
@@ -259,20 +259,20 @@ implementada.
 ## 12 Referencias
 
 Se deben añadir referencias a las fuentes bibliográficas utilizadas usando un estilo uniforme, por
-ejemplo, números entre corchetes (IEEE), ej.: “Drupal [2,4,6] es un framework para...” Todas las
+ejemplo, números entre corchetes (IEEE), ej.: "Drupal [2,4,6] es un framework para..." Todas las
 referencias (libros, enlaces, etc.) deben ser debidamente detalladas en la sección de bibliografía,
 al final del documento. Para la gestión de las referencias es recomendable utilizar herramientas
-como Zotero o Mendeley. Ambas herramientas tienen conectores para Microsoft Word y
+como [Zotero](https://www.zotero.org/) o [Mendeley](https://www.mendeley.com). Ambas herramientas tienen conectores para Microsoft Word y
 permiten exportar las referencias en formato bibtex para su uso en documentos LaTeX.
 
 En el caso de figuras tomadas de otras fuentes, es necesario indicar la referencia en el pie de
-figura, ej. “Metodología Scrum [5]”.
+figura, ej. "Metodología Scrum [5]".
 
 ## 13 Uso de Inteligencia Artificial
 
 El uso de herramientas de Inteligencia Artificial (IA) en proyectos académicos es un tema
 complejo para el cual aún no existen directrices ampliamente aceptadas. En el momento de
-redactar este documento, en línea con las guías éticas de editoriales como Elsevier y ACM, su uso
+redactar este documento, en línea con las guías éticas de editoriales como [Elsevier](https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier) y [ACM](https://www.acm.org/publications/policies/frequently-asked-questions), su uso
 se considera admisible siempre que se realice de forma **limitada, transparente y responsable**. En
 particular, se deben seguir las siguientes recomendaciones:
 
@@ -316,7 +316,7 @@ Es conveniente comenzar siempre la presentación explicando de forma muy breve e
 abordado y el resultado del proyecto. Esto permite que los miembros del tribunal puedan tener
 una idea clara del proyecto realizado sin tener que esperar hasta el final de la exposición.
 
-Como material de referencia, se recomienda la lectura de los libros PresentationZen, de Garr
-Reynolds y/o Slide:ology, de Nancy Duarte (disponible online en la biblioteca de la US).
+Como material de referencia, se recomienda la lectura de los libros [PresentationZen](https://amzn.eu/d/2wav8R1), de Garr
+Reynolds y/o [Slide:ology](https://amzn.eu/d/fqfC9r4), de Nancy Duarte (disponible online en la [biblioteca de la US](https://fama.us.es/)).
 
 
