@@ -7,12 +7,12 @@ Universidad de Sevilla
 
 ## Sobre este documento
 
-Este documento no constituye una guía oficial. Su contenido refleja únicamente la opinión y experiencia del autor, y debe utilizarse con fines informativos y orientativos. La información aquí presentada debe contrastarse siempre con la documentación oficial de la asignatura de Proyecto Fin de Grado y con las indicaciones del tutor o tutora asignado/a.
+Este documento no constituye una guía oficial. Su contenido refleja únicamente la opinión y experiencia del autor, y debe utilizarse con fines informativos y orientativos. La información aquí presentada debe contrastarse siempre con la documentación oficial de la asignatura de Trabajo Fin de Grado y con las indicaciones del tutor o tutora asignado/a.
 
 
 ## Resumen
 
-El objetivo de este documento es proporcionar a los estudiantes de grados en Informática guías y recomendaciones para la elaboración del Proyecto fin de Grado (TfG) sobre desarrollo de software. Se abordan aspectos clave como la elección de la temática, la elaboración de la documentación y el contenido de los apartados más relevantes. Las orientaciones aquí recogidas deben interpretarse como pautas generales, adaptándolas siempre a las características de cada TfG, la normativa vigente, y las indicaciones del tutor/a. Dado que la naturaleza de este tipo de trabajos es la de un proyecto software en adelante se utilizarán los términos _proyecto_ y _trabajo_ indistintamente.
+El objetivo de este documento es proporcionar a los estudiantes de grados en Informática guías y recomendaciones para la elaboración del Trabajo fin de Grado (TfG) sobre desarrollo de software. Se abordan aspectos clave como la elección de la temática, la elaboración de la documentación y el contenido de los apartados más relevantes. Las orientaciones aquí recogidas deben interpretarse como pautas generales, adaptándolas siempre a las características de cada TfG, la normativa vigente, y las indicaciones del tutor/a. Dado que la naturaleza de este tipo de trabajos es la de un proyecto software, en adelante se utilizarán los términos _proyecto_ y _trabajo_ indistintamente.
 
 
 ## Índice
@@ -163,7 +163,7 @@ apartado suele resultar útil incluir una tabla comparativa.
 
 El proyecto debe incluir una **planificación temporal y de costes** aplicando los conocimientos
 adquiridos en el grado. La planificación temporal debe realizarse teniendo en cuenta el número
-de horas de proyecto esperados para completar el TfG por normativa. En el momento de escribir
+de horas esperados para completar el TfG por normativa. En el momento de escribir
 este documento, esto se corresponde con 300h en grado y 450 h en doble grado. Es importante
 identificar y describir los hitos principales del proyecto, abarcando no solo tareas de desarrollo,
 sino también aquellas relacionadas con investigación, documentación, elaboración de manuales
@@ -222,7 +222,7 @@ descripciones textuales detalladas e indicando el software utilizado para su dis
 
 El apartado de diseño debe incluir una descripción general de la arquitectura, por ejemplo,
 utilizando un diagrama de bloques informal o similar. Una vez presentada de forma general se
-debe proporcionar información más específica a través de una descripción de las **vistas más
+debe proporcionar información más específica a través de una descripción de las **vistas arquitectónicas más
 relevantes**. Se recomienda incluir una vista funcional o lógica (ej. a través de un diagrama UML
 de componentes), una vista de despliegue (ej. diagrama UML de despliegue) y una vista de datos
 (ej. diagrama UML de clases con perfil de datos). Opcionalmente, se pueden incluir otro tipo de
@@ -242,8 +242,7 @@ La realización y documentación de pruebas es un requisito imprescindible. Debe
 **tipo de pruebas** se han realizado (unitarias, integración, sistema, API, GUI, etc.) y cuántas se han
 realizado documentando, al menos, las más relevantes (ej. pruebas de aceptación). Es muy
 recomendable automatizar al menos un subconjunto de las pruebas. En tal caso, debe quedar
-claro cuántas se han automatizado, cómo se ha realizado dicha automatización y con qué
-herramientas. También es aconsejable **incluir métricas** que permitan valorar la adecuación de las
+claro cuántas se han automatizado y cómo se ha realizado dicha automatización. También es aconsejable **incluir métricas** que permitan valorar la adecuación de las
 pruebas, como el nivel de cobertura alcanzado.
 
 
@@ -272,7 +271,7 @@ figura, ej. "Metodología Scrum [5]".
 
 El uso de herramientas de Inteligencia Artificial (IA) en proyectos académicos es un tema
 complejo para el cual aún no existen directrices ampliamente aceptadas. En el momento de
-redactar este documento, en línea con las guías éticas de editoriales como [Elsevier](https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier) y [ACM](https://www.acm.org/publications/policies/frequently-asked-questions), su uso
+redactar este documento, en línea con las guías de editoriales como [Elsevier](https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier) y [ACM](https://www.acm.org/publications/policies/frequently-asked-questions), su uso
 se considera admisible siempre que se realice de forma **limitada, transparente y responsable**. En
 particular, se deben seguir las siguientes recomendaciones:
 
@@ -280,7 +279,7 @@ particular, se deben seguir las siguientes recomendaciones:
     por el estudiante, pero nunca para generar contenido desde cero. Se recomienda que su
     uso se limite a las partes más relevantes del documento.
 - **No se debe confiar en los resultados** proporcionados por la herramienta. Si la
-    herramienta proporciona un resultado como una cifra, un dato o la referencia a un
+    herramienta proporciona un resultado como una cifra, un fragmento de código, un dato o la referencia a un
     artículo, se debe asumir que es incorrecto hasta verificarlo con otra fuente confiable.
 - Se debe **indicar claramente las herramientas utilizadas** y para qué, de manera que se
     puedan entender los resultados y el alcance de la contribución del estudiante.
