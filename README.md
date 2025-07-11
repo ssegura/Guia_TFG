@@ -318,4 +318,18 @@ una idea clara del proyecto realizado sin tener que esperar hasta el final de la
 Como material de referencia, se recomienda la lectura de los libros [PresentationZen](https://amzn.eu/d/2wav8R1), de Garr
 Reynolds y/o [Slide:ology](https://amzn.eu/d/fqfC9r4), de Nancy Duarte (disponible online en la [biblioteca de la US](https://fama.us.es/)).
 
+## Lista de comprobación (Checklist)
+
+- [ ] La redacción del documento es formal y cuidada.
+- [ ] He revisado minuciosamente la calidad de la escritura utilizando herramientas de revisión ortográfica y gramatical.
+- [ ] El documento incluye un resumen de aproximadamente una página indicando cuál es el problema abordado y la solución propuesta.
+- [ ] El estilo visual del documento, incluyendo figuras y tablas, es uniforme a lo largo todo el documento.
+- [ ] Las imágenes son de alta calidad, no se salen de los márgenes y están debidamente referenciadas en el texto.
+- [ ] Las tablas son de alta calidad, no se salen de los márgenes y están debidamente referenciadas en el texto.
+- [ ] Los listados de código son de alta calidad e incluyen numeración de líneas.
+- [ ] El documento incluye referencias a las fuentes bibliográficas más relevantes, debidamente detalladas en la sección de bibliografía al final del documento.
+- [ ] Las imágenes extraídas de Internet incluyen una referencia a la fuente en el pie de imagen.
+- [ ] He descrito con detalle el uso de IA, indicando las herramientas utilizadas.
+
+
 
