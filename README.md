@@ -97,7 +97,7 @@ Independientemente de la herramienta seleccionada, es fundamental que el estilo 
 documento sea **profesional, coherente y homogéneo**. Es recomendable dedicar tiempo al inicio
 del proyecto para definir cuidadosamente la maquetación y el formato visual. De lo contrario, es
 probable que más adelante sea necesario realizar modificaciones de estilo que impliquen rehacer
-parte del proyecto ya realizado.
+parte del trabajo ya realizado.
 
 El documento debe incluir **índices** de contenidos, tablas y figuras. Todos deben generarse de
 forma automática mediante el uso de referencias cruzadas. Todas las tablas y figuras deben incluir
@@ -287,7 +287,7 @@ particular, se deben seguir las siguientes recomendaciones:
 ## 14 Video demostración
 
 Se recomienda la creación de un vídeo demo ilustrando el producto desarrollado. En el momento
-de escribir este documento, este vídeo es un requisito obligatorio para la entrega del TfG en la
+de escribir este documento, este vídeo es un requisito obligatorio para la entrega del TfG en el departamento de Lenguajes y Sistemas Informáticos de la
 ETSII de Sevilla y debe tener una duración máxima de tres minutos.
 
 El vídeo debe cubrir las funcionalidades más importantes de la aplicación y debe estar explicado
